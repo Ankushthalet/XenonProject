@@ -1,4 +1,4 @@
-# XenonProject
+# Major Project
 working sinup and login website using Java SpringBoot 
 
 This is our home page 
